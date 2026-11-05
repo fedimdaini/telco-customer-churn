@@ -1,0 +1,2 @@
+# Notebooks hold the analysis; keep them out of the language stats so the repo shows its Python code
+*.ipynb linguist-documentation
