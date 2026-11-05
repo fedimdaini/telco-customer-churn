@@ -1,0 +1,31 @@
+{
+  "final_threshold": 0.29,
+  "numeric_cols": [
+    "tenure",
+    "MonthlyCharges",
+    "TotalCharges",
+    "charge_per_tenure_month"
+  ],
+  "categorical_cols": [
+    "Contract",
+    "PaymentMethod",
+    "InternetService"
+  ],
+  "binary_cols": [
+    "Partner",
+    "Dependents",
+    "PhoneService",
+    "PaperlessBilling",
+    "MultipleLines",
+    "OnlineSecurity",
+    "OnlineBackup",
+    "DeviceProtection",
+    "TechSupport",
+    "StreamingTV",
+    "StreamingMovies",
+    "gender",
+    "SeniorCitizen"
+  ],
+  "test_roc_auc": 0.8432896742359657,
+  "test_f1_at_default": 0.6251298026998962
+}

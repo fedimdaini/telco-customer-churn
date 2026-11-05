@@ -1,0 +1,10 @@
+streamlit
+joblib==1.5.3
+matplotlib
+pandas==2.2.2
+scikit-learn==1.6.1
+shap==0.52.0
+xgboost==3.3.0
+fastapi>=0.100.0
+uvicorn[standard]>=0.23.0
+prometheus-client>=0.17.0
